@@ -14,8 +14,8 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         // Create a new list item
-        const listItem = document.createElement('li');
-        listItem.textContent = taskText;
+        const classList.add = document.createElement('li');
+       classList.add.textContent = taskText;
 
         // Create a remove button
         const removeButton = document.createElement('button');
