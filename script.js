@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Function to add a new task
-    function addTask() {
+    function classList.add() {
         const taskText = taskInput.value.trim(); // Get and trim the input value
 
         if (taskText === "") {
